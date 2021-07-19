@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation>
+	<folder>person</folder>
+	<filename>microbus_001</filename>
+	<path>microbus_001.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>355</width>
+		<height>266</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>53</ymin>
+			<xmax>281</xmax>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<?xml version="1.0" ?><annotation>
+	<folder>person</folder>
+	<filename>car_063</filename>
+	<path>car_063.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>900</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>348</ymin>
+			<xmax>1343</xmax>
+			<ymax>846</ymax>
+		</bndbox>
+	</object>
+</annotation>
